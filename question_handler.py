@@ -18,7 +18,7 @@ def has_matching_image(word_data):
 
     # Check if image filename (without extension) matches the word
     image_base = os.path.splitext(image)[0]
-    return word == image_base and (image.endswith('.png') or image.endswith('.jpg'))
+    return word == image_base and (image.endswith('.png') or image.endswith('.jpg') or image.endswith('.jpeg'))
 
 def generate_misspellings(word):
     """Generate plausible misspellings for a word"""

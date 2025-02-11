@@ -1,1262 +1,1671 @@
 {
   "Words": [
-      {
-          "Word": "conversation",
-          "Hint": "An informal talk or exchange of ideas between two or more people.",
-          "Audio": "conversation.mp3"
-      },
-      {
-          "Word": "weather",
-          "Hint": "The atmospheric conditions such as temperature, rain, and wind in a specific place.",
-          "Image": "weather.png",
-          "Audio": "weather.mp3"
-      },
-      {
-          "Word": "pleasant",
-          "Hint": "Something that is enjoyable, agreeable, or nice.",
-          "Audio": "pleasant.mp3"
-      },
-      {
-          "Word": "favourite",
-          "Hint": "Something or someone you like the most.",
-          "Audio": "favourite.mp3"
-      },
-      {
-          "Word": "squirrel",
-          "Hint": "A small rodent with a bushy tail that often climbs trees.",
-          "Image": "squirrel.png",
-          "Audio": "squirrel.mp3"
-      },
-      {
-          "Word": "celebrate",
-          "Hint": "To acknowledge a special day or event with festivities or activities.",
-          "Image": "celebrate.png",
-          "Audio": "celebrate.mp3"
-      },
-      {
-          "Word": "excited",
-          "Hint": "Feeling very happy or enthusiastic about something.",
-          "Image": "excited.png",
-          "Audio": "excited.mp3"
-      },
-      {
-          "Word": "irregular",
-          "Hint": "Not even or balanced in shape or occurrence.",
-          "Audio": "irregular.mp3"
-      },
-      {
-          "Word": "frightened",
-          "Hint": "Feeling fear or anxiety about something.",
-          "Image": "frightened.png",
-          "Audio": "frightened.mp3"
-      },
-      {
-          "Word": "germinate",
-          "Hint": "The process of a seed beginning to grow into a plant.",
-          "Image": "germinate.png",
-          "Audio": "germinate.mp3"
-      },
-      {
-          "Word": "locomotion",
-          "Hint": "The ability to move from one place to another.",
-          "Audio": "audio.mp3"
-      },
-      {
-          "Word": "breathing",
-          "Hint": "The process of inhaling and exhaling air to stay alive.",
-          "Image": "breathing.png",
-          "Audio": "breathing.mp3"
-      },
-      {
-          "Word": "stomata",
-          "Hint": "Small openings on plant leaves that allow gases to pass in and out.",
-          "Image": "stomata.jpeg",
-          "Audio": "stomata.mp3"
-      },
-      {
-          "Word": "spiracles",
-          "Hint": "Tiny holes on the surface of some animals used for breathing.",
-          "Image": "spiracles.png",
-          "Audio": "spiracles.mp3"
-      },
-      {
-          "Word": "reproduction",
-          "Hint": "The biological process by which new organisms are produced.",
-          "Audio": "reproduction.mp3"
-      },
-      {
-          "Word": "life span",
-          "Hint": "The length of time a living organism is expected to live.",
-          "Audio": "life span.mp3"
-      },
-      {
-          "Word": "organism",
-          "Hint": "Any living being such as a plant, animal, or microorganism.",
-          "Image": "organism.png",
-          "Audio": "organism.mp3"
-      },
-      {
-          "Word": "digestion",
-          "Hint": "The process of breaking down food into nutrients the body can use.",
-          "Audio": "digestion.mp3"
-      },
-      {
-          "Word": "skeleton",
-          "Hint": "The framework of bones in the body of a living organism.",
-          "Image": "skeleton.png",
-          "Audio": "skeleton.mp3"
-      },
-      {
-          "Word": "intestine",
-          "Hint": "The part of the digestive system where nutrients are absorbed from food.",
-          "Image": "intestine.jpeg",
-          "Audio": "intestine.mp3"
-      },
-      {
-          "Word": "nuclear",
-          "Hint": "Family consist of Parents and Kids",
-          "Image": "nuclear.jpg",
-          "Audio": "nuclear.mp3"
-      },
-      {
-          "Word": "generation",
-          "Hint": "A group of people born and living at the same time.",
-          "Image": "generation.jpg",
-          "Audio": "generation.mp3"
-      },
-      {
-          "Word": "adopted",
-          "Hint": "Legally made part of a family or taken up as a practice.",
-          "Audio": "adopted.mp3"
-      },
-      {
-          "Word": "transferable",
-          "Hint": "something that can be moved, passed, or applied from one place, person, or situation to another.",
-          "Audio": "transferable.mp3"
-      },
-      {
-          "Word": "neighbourhood",
-          "Hint": "The area surrounding a specific place, often where people live.",
-          "Image": "neighbourhood.png",
-          "Audio": "neighbourhood.mp3"
-      },
-      {
-          "Word": "skyscrapers",
-          "Hint": "Tall buildings that often dominate a city's skyline.",
-          "Image": "skyscrapers.jpg",
-          "Audio": "skyscrapers.mp3"
-      },
-      {
-          "Word": "laboratory",
-          "Hint": "A room or building equipped for scientific experiments.",
-          "Image": "laboratory.jpeg",
-          "Audio": "laboratory.mp3"
-      },
-      {
-          "Word": "construction",
-          "Hint": "The process of building something, such as houses or roads.",
-          "Image": "construction.jpg",
-          "Audio": "construction.mp3"
-      },
-      {
-          "Word": "widening",
-          "Hint": "Making something broader or more extensive.",
-          "Audio": "widening.mp3"
-      },
-      {
-          "Word": "representation",
-          "Hint": "The act of depicting or describing something.",
-          "Audio": "representation.mp3"
-      },
-      {
-          "Word": "application",
-          "Hint": "A software program designed to perform specific tasks.",
-          "Audio": "application.mp3"
-      },
-      {
-          "Word": "components",
-          "Hint": "one of several parts of which something is made",
-          "Audio": "components.mp3"
-      },
-      {
-          "Word": "external",
-          "Hint": "Located on the outside or beyond something.",
-          "Audio": "external.mp3"
-      },
-      {
-          "Word": "classified",
-          "Hint": "Arranged or sorted into categories or groups.",
-          "Audio": "classified.mp3"
-      },
-      {
-          "Word": "allocates",
-          "Hint": "Distributes resources or tasks for a specific purpose.",
-          "Audio": "allocates.mp3"
-      },
-      {
-          "Word": "thousands",
-          "Hint": "Numbers in the range of 1,000 to 9,999.",
-          "Audio": "thousands.mp3"
-      },
-      {
-          "Word": "appropriate",
-          "Hint": "Something suitable or proper in a particular context.",
-          "Audio": "appropriate.mp3"
-      },
-      {
-          "Word": "pictorial",
-          "Hint": "Represented in pictures rather than words.",
-          "Audio": "pictorial.mp3"
-      },
-      {
-          "Word": "comparison",
-          "Hint": "The act of examining two or more things to identify similarities or differences.",
-          "Audio": "comparison.mp3"
-      },
-      {
-          "Word": "currency",
-          "Hint": "system of money in general use within a particular country.",
-          "Image": "currency.jpeg",
-          "Audio": "currency.mp3"
-      },
-      {
-          "Word": "spade",
-          "Hint": "A tool with a flat, sharp blade and a long handle, used for digging, cutting, or moving soil",
-          "Image": "spade.png",
-          "Audio": "spade.mp3"
-      },
-      {
-          "Word": "twig",
-          "Hint": "A twig is a small, thin branch of a tree or shrub",
-          "Image": "twig.jpg",
-          "Audio": "twig.mp3"
-         
-      },
-      
-        {
-            "Word": "swaying",
-            "Hint": "moving back and forth or side to side in a smooth, gentle motion.",
-            "Audio": "swaying.mp3"
-        },
-        {
-            "Word": "glared",
-            "Hint": "To stare angrily 😠👀",
-            "Audio": "glared.mp3"
-        },
-        {
-            "Word": "blackberry",
-            "Hint": "Fruit 🍇: A small, dark purple or black edible berry that grows on thorny bushes.",
-            "Image": "blackberry.jpg",
-            "Audio": "blackberry.mp3"
-        },
-        {
-            "Word": "delight",
-            "Hint": "A feeling of great pleasure and happiness",
-            "Audio": "delight.mp3"
-        },
-        {
-            "Word": "mountainside",
-            "Hint": "The sloping side of a mountain.",
-            "Image": "mountainside.webp",
-            "Audio": "mountainside.mp3"
-        },
-        {
-            "Word": "Swiss Alps",
-            "Hint": "A famous mountain range in Switzerland, known for its beauty and skiing resorts.",
-            "Image": "Swiss Alps.jpg",
-            "Audio": "Swiss Alps.mp3"
-        },
-        {
-            "Word": "feathered",
-            "Hint": "Covered with feathers.",
-            "Audio": "feathered.mp3"
-        },
-        {
-            "Word": "prey",
-            "Hint": "An animal that is hunted and eaten by another animal.",
-            "Image": "prey.webp",
-            "Audio": "prey.mp3"
-        },
-        {
-            "Word": "allergies",
-            "Hint": "A condition where the body reacts to certain substances like pollen, dust, or food.",
-            "Image": "allergies.jpg",
-            "Audio": "allergies.mp3"
-        },
-        {
-            "Word": "flapping",
-            "Hint": "Moving up and down or back and forth quickly.",
-            "Image": "flapping.jpeg",
-            "Audio": "flapping.mp3"
-        },
-        {
-            "Word": "antennae",
-            "Hint": "A pair of long, thin sensory organs on insects and some animals.",
-            "Image": "antennae.jpeg",
-            "Audio": "antennae.mp3"
-        },
-        {
-            "Word": "stagnant",
-            "Hint": "Not moving or flowing, often leading to bad conditions.",
-            "Image": "stagnant.webp",
-            "Audio": "stagnant.mp3"
-        },
-        {
-            "Word": "repellent",
-            "Hint": "A substance used to keep insects or other pests away.",
-            "Image": "repellent.jpg",
-            "Audio": "repellent.mp3"
-        },
-        {
-            "Word": "contaminate",
-            "Hint": "To make something impure or unsafe by adding harmful substances.",
-            "Audio": "contaminate.mp3"
-        },
-        {
-            "Word": "flesh",
-            "Hint": "The soft part of the body between the skin and bones.",
-            "Image": "flesh.jpeg",
-            "Audio": "flesh.mp3"
-        },
-        {
-            "Word": "ancient",
-            "Hint": "Very old or from a long time ago.",
-            "Audio": "ancient.mp3"
-        },
-        {
-            "Word": "invention",
-            "Hint": "A new device or idea created to solve a problem.",
-            "Audio": "invention.mp3"
-        },
-        {
-            "Word": "sledges",
-            "Hint": "A type of vehicle used for sliding over snow or ice.",
-            "Image": "sledges.jpg",
-            "Audio": "sledges.mp3"
-        },
-        {
-            "Word": "clermont",
-            "Hint": "Historically, the name of the first steamboat built by Robert Fulton.",
-            "Image": "clermont.jpg",
-            "Audio": "clermont.mp3"
-        },
-        {
-            "Word": "elevated",
-            "Hint": "Raised higher than the surrounding area.",
-            "Audio": "elevated.mp3"
-        },
-        
-          {
-              "Word": "expensive",
-              "Hint": "Costing a lot of money.",
-              "Audio": "expensive.mp3"
-          },
-          {
-              "Word": "destination",
-              "Hint": "The place to which someone or something is going.",
-              "Audio": "destination.mp3"
-          },
-          {
-              "Word": "international",
-              "Hint": "Involving multiple countries",
-              "Audio": "international.mp3"
-          },
-          {
-              "Word": "domestic",
-              "Hint": "Related to the home or within a country.",
-              "Audio": "domestic.mp3"
-          },
-          {
-              "Word": "three-dimensional",
-              "Hint": "Having length, width, and height",
-              "Image": "three-dimentional.png",
-              "Audio": "three-dimensional.mp3"
-          },
-          {
-              "Word": "untitled",
-              "Hint": "Without a name or title.",
-              "Audio": "untitled.mp3"
-          },
-          {
-              "Word": "release",
-              "Hint": "To let go or set free",
-              "Audio": "release.mp3"
-          },
-          {
-              "Word": "estimating",
-              "Hint": "Making an approximate guess or calculation",
-              "Audio": "estimating.mp3"
-          },
-          {
-              "Word": "addition",
-              "Hint": "sum of all numbers",
-              "Image": "addition.png",
-              "Audio": "addition.mp3"
-          },
-          {
-              "Word": "regrouping",
-              "Hint": "Rearranging numbers in math to make calculations easier.",
-              "Audio": "regrouping.mp3"
-          },
-            {
-                "Word": "altogether",
-                "Hint": "Completely or totally",
-                "Audio": "altogether.mp3"
-            },
-            {
-                "Word": "pastured",
-                "Hint": "Allowed to graze in a field",
-                "Image": "pastured.jpeg",
-                "Audio": "pastured.mp3"
-            },
-            {
-                "Word": "spread",
-                "Hint": "To extend over a larger area.",
-                "Audio": "spread.mp3"
-            },
-            {
-                "Word": "cistus",
-                "Hint": "A type of flowering plant.",
-                "Image": "cistus.jpeg",
-                "Audio": "cistus.mp3"
-            },
-            {
-                "Word": "excitedly",
-                "Hint": "With enthusiasm and energy.",
-                "Audio": "excitedly.mp3"
-            },
-            {
-                "Word": "imagine",
-                "Hint": "To create a picture in your mind.",
-                "Image": "imagine.png",
-                "Audio": "imagine.mp3"
-            },
-            {
-                "Word": "supports",
-                "Hint": "Helps or holds something up.",
-                "Audio": "supports.mp3"
-            },
-            {
-                "Word": "hesitantly",
-                "Hint": "In a slow or uncertain way.",
-                "Audio": "hesitantly.mp3"
-            },
-            {
-                "Word": "advice",
-                "Hint": "A suggestion or recommendation.",
-                "Audio": "advice.mp3"
-            },
-            {
-                "Word": "exclaimed",
-                "Hint": "Spoke or shouted suddenly with excitement or surprise.",
-                "Image": "exclaimed.jpg",
-                "Audio": "exclaimed.mp3"
-            },
-            {
-                "Word": "heartily",
-                "Hint": "In a cheerful or enthusiastic way.",
-                "Audio": "heartily.mp3"
-            },
-            {
-                "Word": "perching",
-                "Hint": "Sitting or resting on a branch or ledge.",
-                "Image": "perching.jpg",
-                "Audio": "perching.mp3"
-            },
-            {
-                "Word": "scratching",
-                "Hint": "Rubbing or scraping a surface with something sharp or rough",
-               
-                "Audio": "scratching.mp3"
-            },
-            {
-                "Word": "woven",
-                "Hint": "Made by interlacing threads or fibers together.",
-                "Image": "woven.jpg",
-                "Audio": "woven.mp3"
-            },
-            {
-                "Word": "stitched",
-                "Hint": "Sewn together with a needle and thread",
-                "Image": "stitched.jpeg",
-                "Audio": "stitched.mp3",
-                "Month": "June"
-            },
-            {
-                "Word": "chisel",
-                "Hint": "A tool with a sharp edge used for carving or cutting hard materials.",
-                "Image": "chisel.jpg",
-                "Audio": "chisel.mp3",
-                "Month": "June"
-            },
-            {
-                "Word": "upstroke",
-                "Hint": "The upward and backward movement of a bird's wings during flight",
-                "Image": "upstroke.jpg",
-                "Audio": "upstroke.mp3",
-                "Month": "June"
-            },
-            {
-                "Word": "bird feeders",
-                "Hint": "Containers filled with food to attract and feed birds.",
-                "Image": "bird-feeders.jpg",
-                "Audio": "bird-feeders.mp3"
-            },
-            {
-                "Word": "webbed",
-                "Hint": "Having skin stretched between the toes, like a duck's feet.",
-                "Image": "webbed.jpg",
-                "Audio": "webbed.mp3"
-            },
-            {
-                "Word": "edged",
-                "Hint": "Having a border or sharp boundary.",
-                "Image": "edged.webp",
-                "Audio": "edged.mp3"
-            },
-            {
-                "Word": "respect",
-                "Hint": "Showing admiration or consideration for someone or something",
-                "Audio": "respect.mp3"
-            },
-            {
-                "Word": "encourage",
-                "Hint": "To give support, confidence, or hope to someone.",
-                "Audio": "encourage.mp3"
-            },
-            {
-                "Word": "participate",
-                "Hint": "To take part in an activity or event",
-                "Audio": "participate.mp3"
-            },
-            {
-                "Word": "occupations",
-                "Hint": "Jobs or professions that people do for work.",
-                "Audio": "occupations.mp3"
-            },
-        
-        
-      {
-          "Word": "historians",
-          "Hint": "People who study and write about past events.",
-          "Audio": "audio.mp3"
-      },
-      {
-          "Word": "calendar",
-          "Hint": "A system used to organize days, months, and years.",
-          "Image": "calendar.webp",
-          "Audio": "historians.mp3"
-      },
-      {
-          "Word": "anniversaries",
-          "Hint": "Special dates marking a past event's yearly return.",
-         
-          "Audio": "anniversaries.mp3"
-      },
-      {
-          "Word": "decade",
-          "Hint": "A period of ten years.",
-          "Audio": "decade.mp3"
-      },
-      {
-          "Word": "century",
-          "Hint": "A period of one hundred years..",
-          "Audio": "century.mp3"
-      },
-      {
-          "Word": "library",
-          "Hint": "A place where books, magazines, and other materials are kept for reading and research.",
-          "Image": "library.jpg",
-          "Audio": "library.mp3"
-      },
-      {
-          "Word": "canvas",
-          "Hint": "A piece of strong cloth for painting a picture on",
-          "Image": "canvas.jpeg",
-          "Audio": "canvas.mp3"
-      },
-      {
-          "Word": "Microsoft",
-          "Hint": "A leading technology company known for software like Windows and Office.",
-          "Image": "microsoft.png",
-          "Audio": "Microsoft.mp3"
-      },
-      {
-          "Word": "doodle",
-          "Hint": "A simple drawing or scribble made absentmindedly.",
-          "Image": "doodle.jpg",
-          "Audio": "doodle.mp3"
-      },
-      {
-          "Word": "verification",
-          "Hint": "The process of confirming accuracy or truth.",
-          "Audio": "verification.mp3"
-      },
-      {
-          "Word": "subtrahend",
-          "Hint": "The number being subtracted in a subtraction operation.",
-          "Image": "subtrahend.png",
-          "Audio": "subtrahend.mp3"
-      },
-      {
-          "Word": "inclusive",
-          "Hint": "Welcoming and accommodating everyone, without exclusion.",
-          "Audio": "inclusive.mp3"
-      },
-      {
-          "Word": "minuend",
-          "Hint": "The number from which another number (subtrahend) is subtracted.",
-          "Image": "minuend.png",
-          "Audio": "minuend.mp3"
-      },
-      {
-          "Word": "water-babies",
-          "Hint": "A reference from english chapter about a boy who becomes a water creature.",
-         
-          "Audio": "water-babies.mp3",
-          "Month": "June"
-      },
-      {
-          "Word": "chimney sweep",
-          "Hint": "A person who cleans soot from chimneys.",
-          "Audio": "chimney sweep.mp3"
-      },
-      {
-          "Word": "boulder",
-          "Hint": "A large, rounded rock, typically found in nature.",
-          "Image": "boulder.jpg",
-          "Audio": "boulder.mp3"
-      },
-      {
-        "Word": "mended",
-        "Hint": "Repaired or fixed something that was broken.",
-        
-        "Audio": "mended.mp3"
-      },
-      {
-        "Word": "rock pools",
-        "Hint": "Small water-filled depressions in coastal rocks, home to marine life.",
-       
-        "Audio": "rock pools.mp3"
-      },
-      {
-        "Word": "sewers",
-        "Hint": "Underground pipes that carry waste and rainwater.",
-        "Image": "sewers.jpg",
-        "Audio": "sewers.mp3"
-      },
-      {
-        "Word": "sea anemones",
-        "Hint": "Marine animals resembling flowers, with tentacles to catch prey.",
-        "Image": "sea anemones.jpg",
-        "Audio": "sea anemones.mp3"
-      },
-      {
-        "Word": "ripple",
-        "Hint": "Small waves or movements on the surface of water.",
-        "Image": "ripple.jpg",
-        "Audio": "ripple.mp3"
-      },
-      {
-        "Word": "chitin",
-        "Hint": "A tough, protective substance found in the exoskeletons of insects and crustaceans.",
-        "Image": "image.png",
-        "Audio": "chitin.mp3"
+    {
+      "Word": "conversation",
+      "Hint": "An informal talk or exchange of ideas between two or more people.",
+      "Audio": "conversation.mp3"
     },
     {
-        "Word": "thorax",
-        "Hint": "The middle section of an insect's body, located between the head and abdomen, where the legs and wings attach.",
-        "Image": "thorax.jpg",
-        "Audio": "thorax.mp3"
+      "Word": "weather",
+      "Hint": "The atmospheric conditions such as temperature, rain, and wind in a specific place.",
+      "Image": "weather.png",
+      "Audio": "weather.mp3"
     },
     {
-        "Word": "abdomen",
-        "Hint": "The lower part of an insect's body that contains the digestive and reproductive organs.",
-        "Image": "abdomen.png",
-        "Audio": "abdomen.mp3"
+      "Word": "pleasant",
+      "Hint": "Something that is enjoyable, agreeable, or nice.",
+      "Audio": "pleasant.mp3"
     },
     {
-        "Word": "cocoon",
-        "Hint": "A silky case spun by larvae to protect themselves while they develop into adults.",
-        "Image": "cocoon.jpg",
-        "Audio": "cocoon.mp3"
+      "Word": "favourite",
+      "Hint": "Something or someone you like the most.",
+      "Audio": "favourite.mp3"
     },
     {
-        "Word": "larva",
-        "Hint": "An early stage of an insect's life cycle before it transforms into an adult, often worm-like in appearance.",
-        "Image": "larva.png",
-        "Audio": "larva.mp3"
+      "Word": "squirrel",
+      "Hint": "A small rodent with a bushy tail that often climbs trees.",
+      "Image": "squirrel.png",
+      "Audio": "squirrel.mp3"
     },
     {
-        "Word": "mounds",
-        "Hint": "Raised piles of earth or other material, often built by insects like termites or ants as nests.",
-        "Image": "mounds.jpg",
-        "Audio": "mounds.mp3"
+      "Word": "celebrate",
+      "Hint": "To acknowledge a special day or event with festivities or activities.",
+      "Image": "celebrate.png",
+      "Audio": "celebrate.mp3"
     },
-
+    {
+      "Word": "excited",
+      "Hint": "Feeling very happy or enthusiastic about something.",
+      "Image": "excited.png",
+      "Audio": "excited.mp3"
+    },
+    {
+      "Word": "irregular",
+      "Hint": "Not even or balanced in shape or occurrence.",
+      "Audio": "irregular.mp3"
+    },
+    {
+      "Word": "frightened",
+      "Hint": "Feeling fear or anxiety about something.",
+      "Image": "frightened.png",
+      "Audio": "frightened.mp3"
+    },
+    {
+      "Word": "germinate",
+      "Hint": "The process of a seed beginning to grow into a plant.",
+      "Image": "germinate.png",
+      "Audio": "germinate.mp3"
+    },
+    {
+      "Word": "locomotion",
+      "Hint": "The ability to move from one place to another.",
+      "Audio": "locomotion.mp3"
+    },
+    {
+      "Word": "breathing",
+      "Hint": "The process of inhaling and exhaling air to stay alive.",
+      "Image": "breathing.png",
+      "Audio": "breathing.mp3"
+    },
+    {
+      "Word": "stomata",
+      "Hint": "Small openings on plant leaves that allow gases to pass in and out.",
+      "Image": "stomata.jpg",
+      "Audio": "stomata.mp3"
+    },
+    {
+      "Word": "spiracles",
+      "Hint": "Tiny holes on the surface of some animals used for breathing.",
+      "Image": "spiracles.png",
+      "Audio": "spiracles.mp3"
+    },
+    {
+      "Word": "reproduction",
+      "Hint": "The biological process by which new organisms are produced.",
+      "Audio": "reproduction.mp3"
+    },
+    {
+      "Word": "life span",
+      "Hint": "The length of time a living organism is expected to live.",
+      "Audio": "life span.mp3"
+    },
+    {
+      "Word": "organism",
+      "Hint": "Any living being such as a plant, animal, or microorganism.",
+      "Image": "organism.png",
+      "Audio": "organism.mp3"
+    },
+    {
+      "Word": "digestion",
+      "Hint": "The process of breaking down food into nutrients the body can use.",
+      "Audio": "digestion.mp3"
+    },
+    {
+      "Word": "skeleton",
+      "Hint": "The framework of bones in the body of a living organism.",
+      "Image": "skeleton.png",
+      "Audio": "skeleton.mp3"
+    },
+    {
+      "Word": "intestine",
+      "Hint": "The part of the digestive system where nutrients are absorbed from food.",
+      "Image": "intestine.jpeg",
+      "Audio": "intestine.mp3"
+    },
+    {
+      "Word": "nuclear",
+      "Hint": "Family consist of Parents and Kids",
+      "Image": "nuclear.jpg",
+      "Audio": "nuclear.mp3"
+    },
+    {
+      "Word": "generation",
+      "Hint": "A group of people born and living at the same time.",
+      "Image": "generation.jpg",
+      "Audio": "generation.mp3"
+    },
+    {
+      "Word": "adopted",
+      "Hint": "Legally made part of a family or taken up as a practice.",
+      "Audio": "adopted.mp3"
+    },
+    {
+      "Word": "transferable",
+      "Hint": "something that can be moved, passed, or applied from one place, person, or situation to another.",
+      "Audio": "transferable.mp3"
+    },
+    {
+      "Word": "neighbourhood",
+      "Hint": "The area surrounding a specific place, often where people live.",
+      "Image": "neighbourhood.png",
+      "Audio": "neighbourhood.mp3"
+    },
+    {
+      "Word": "skyscrapers",
+      "Hint": "Tall buildings that often dominate a city's skyline.",
+      "Image": "skyscrapers.jpg",
+      "Audio": "skyscrapers.mp3"
+    },
+    {
+      "Word": "laboratory",
+      "Hint": "A room or building equipped for scientific experiments.",
+      "Image": "laboratory.jpeg",
+      "Audio": "laboratory.mp3"
+    },
+    {
+      "Word": "construction",
+      "Hint": "The process of building something, such as houses or roads.",
+      "Image": "construction.jpg",
+      "Audio": "construction.mp3"
+    },
+    {
+      "Word": "widening",
+      "Hint": "Making something broader or more extensive.",
+      "Audio": "widening.mp3"
+    },
+    {
+      "Word": "representation",
+      "Hint": "The act of depicting or describing something.",
+      "Audio": "representation.mp3"
+    },
+    {
+      "Word": "application",
+      "Hint": "A software program designed to perform specific tasks.",
+      "Audio": "application.mp3"
+    },
+    {
+      "Word": "components",
+      "Hint": "one of several parts of which something is made",
+      "Audio": "components.mp3"
+    },
+    {
+      "Word": "external",
+      "Hint": "Located on the outside or beyond something.",
+      "Audio": "external.mp3"
+    },
+    {
+      "Word": "classified",
+      "Hint": "Arranged or sorted into categories or groups.",
+      "Audio": "classified.mp3"
+    },
+    {
+      "Word": "allocates",
+      "Hint": "Distributes resources or tasks for a specific purpose.",
+      "Audio": "allocates.mp3"
+    },
+    {
+      "Word": "thousands",
+      "Hint": "Numbers in the range of 1,000 to 9,999.",
+      "Audio": "thousands.mp3"
+    },
+    {
+      "Word": "appropriate",
+      "Hint": "Something suitable or proper in a particular context.",
+      "Audio": "appropriate.mp3"
+    },
+    {
+      "Word": "pictorial",
+      "Hint": "Represented in pictures rather than words.",
+      "Audio": "pictorial.mp3"
+    },
+    {
+      "Word": "comparison",
+      "Hint": "The act of examining two or more things to identify similarities or differences.",
+      "Audio": "comparison.mp3"
+    },
+    {
+      "Word": "currency",
+      "Hint": "system of money in general use within a particular country.",
+      "Image": "currency.jpeg",
+      "Audio": "currency.mp3"
+    },
+    {
+      "Word": "spade",
+      "Hint": "A tool with a flat, sharp blade and a long handle, used for digging, cutting, or moving soil",
+      "Image": "spade.png",
+      "Audio": "spade.mp3"
+    },
+    {
+      "Word": "twig",
+      "Hint": "Its a small, thin branch of a tree or shrub",
+      "Image": "twig.jpg",
+      "Audio": "twig.mp3"
+    },
+    {
+      "Word": "swaying",
+      "Hint": "moving back and forth or side to side in a smooth, gentle motion.",
+      "Audio": "swaying.mp3"
+    },
+    {
+      "Word": "glared",
+      "Hint": "To stare angrily 😠👀",
+      "Audio": "glared.mp3"
+    },
+    {
+      "Word": "blackberry",
+      "Hint": "Fruit 🍇: A small, dark purple or black edible berry that grows on thorny bushes.",
+      "Image": "blackberry.jpg",
+      "Audio": "blackberry.mp3"
+    },
+    {
+      "Word": "delight",
+      "Hint": "A feeling of great pleasure and happiness",
+      "Audio": "delight.mp3"
+    },
+    {
+      "Word": "mountainside",
+      "Hint": "The sloping side of a mountain.",
+      "Image": "mountainside.png.,;;",
+      "Audio": "mountainside.mp3"
+    },
+    {
+      "Word": "Swiss Alps",
+      "Hint": "A famous mountain range in Switzerland, known for its beauty and skiing resorts.",
+      "Image": "Swiss Alps.jpg",
+      "Audio": "Swiss Alps.mp3"
+    },
+    {
+      "Word": "feathered",
+      "Hint": "Covered with feathers.",
+      "Audio": "feathered.mp3"
+    },
+    {
+      "Word": "prey",
+      "Hint": "An animal that is hunted and eaten by another animal.",
+      "Image": "prey.png",
+      "Audio": "prey.mp3"
+    },
+    {
+      "Word": "allergies",
+      "Hint": "A condition where the body reacts to certain substances like pollen, dust, or food.",
+      "Image": "allergies.jpg",
+      "Audio": "allergies.mp3"
+    },
+    {
+      "Word": "flapping",
+      "Hint": "Moving up and down or back and forth quickly.",
+      "Image": "flapping.jpeg",
+      "Audio": "flapping.mp3"
+    },
+    {
+      "Word": "antennae",
+      "Hint": "A pair of long, thin sensory organs on insects and some animals.",
+      "Image": "antennae.jpeg",
+      "Audio": "antennae.mp3"
+    },
+    {
+      "Word": "stagnant",
+      "Hint": "Not moving or flowing, often leading to bad conditions.",
+      "Image": "stagnant.png",
+      "Audio": "stagnant.mp3"
+    },
+    {
+      "Word": "repellent",
+      "Hint": "A substance used to keep insects or other pests away.",
+      "Image": "repellent.jpg",
+      "Audio": "repellent.mp3"
+    },
+    {
+      "Word": "contaminate",
+      "Hint": "To make something impure or unsafe by adding harmful substances.",
+      "Audio": "contaminate.mp3"
+    },
+    {
+      "Word": "flesh",
+      "Hint": "The soft part of the body between the skin and bones.",
+      "Image": "flesh.jpeg",
+      "Audio": "flesh.mp3"
+    },
+    {
+      "Word": "ancient",
+      "Hint": "Very old or from a long time ago.",
+      "Audio": "ancient.mp3"
+    },
+    {
+      "Word": "invention",
+      "Hint": "A new device or idea created to solve a problem.",
+      "Audio": "invention.mp3"
+    },
+    {
+      "Word": "sledges",
+      "Hint": "A type of vehicle used for sliding over snow or ice.",
+      "Image": "sledges.jpg",
+      "Audio": "sledges.mp3"
+    },
+    {
+      "Word": "clermont",
+      "Hint": "Historically, the name of the first steamboat built by Robert Fulton.",
+      "Image": "clermont.jpg",
+      "Audio": "clermont.mp3"
+    },
+    {
+      "Word": "elevated",
+      "Hint": "Raised higher than the surrounding area.",
+      "Audio": "elevated.mp3"
+    },
+    {
+      "Word": "expensive",
+      "Hint": "Costing a lot of money.",
+      "Audio": "expensive.mp3"
+    },
+    {
+      "Word": "destination",
+      "Hint": "The place to which someone or something is going.",
+      "Audio": "destination.mp3"
+    },
+    {
+      "Word": "international",
+      "Hint": "Involving multiple countries",
+      "Audio": "international.mp3"
+    },
+    {
+      "Word": "domestic",
+      "Hint": "Related to the home or within a country.",
+      "Audio": "domestic.mp3"
+    },
+    {
+      "Word": "three-dimensional",
+      "Hint": "Having length, width, and height",
+      "Image": "three-dimentional.png",
+      "Audio": "three-dimensional.mp3"
+    },
+    {
+      "Word": "untitled",
+      "Hint": "Without a name or title.",
+      "Audio": "untitled.mp3"
+    },
+    {
+      "Word": "release",
+      "Hint": "To let go or set free",
+      "Audio": "release.mp3"
+    },
+    {
+      "Word": "estimating",
+      "Hint": "Making an approximate guess or calculation",
+      "Audio": "estimating.mp3"
+    },
+    {
+      "Word": "addition",
+      "Hint": "sum of all numbers",
+      "Image": "addition.png",
+      "Audio": "addition.mp3"
+    },
+    {
+      "Word": "regrouping",
+      "Hint": "Rearranging numbers in math to make calculations easier.",
+      "Audio": "regrouping.mp3"
+    },
+    {
+      "Word": "altogether",
+      "Hint": "Completely or totally",
+      "Audio": "altogether.mp3"
+    },
+    {
+      "Word": "pastured",
+      "Hint": "Allowed to graze in a field",
+      "Image": "pastured.jpeg",
+      "Audio": "pastured.mp3"
+    },
+    {
+      "Word": "spread",
+      "Hint": "To extend over a larger area.",
+      "Audio": "spread.mp3"
+    },
+    {
+      "Word": "cistus",
+      "Hint": "A type of flowering plant.",
+      "Image": "cistus.jpeg",
+      "Audio": "cistus.mp3"
+    },
+    {
+      "Word": "excitedly",
+      "Hint": "With enthusiasm and energy.",
+      "Audio": "excitedly.mp3"
+    },
+    {
+      "Word": "imagine",
+      "Hint": "To create a picture in your mind.",
+      "Image": "imagine.png",
+      "Audio": "imagine.mp3"
+    },
+    {
+      "Word": "supports",
+      "Hint": "Helps or holds something up.",
+      "Audio": "supports.mp3"
+    },
+    {
+      "Word": "hesitantly",
+      "Hint": "In a slow or uncertain way.",
+      "Audio": "hesitantly.mp3"
+    },
+    {
+      "Word": "advice",
+      "Hint": "A suggestion or recommendation.",
+      "Audio": "advice.mp3"
+    },
+    {
+      "Word": "exclaimed",
+      "Hint": "Spoke or shouted suddenly with excitement or surprise.",
+      "Image": "exclaimed.jpg",
+      "Audio": "exclaimed.mp3"
+    },
+    {
+      "Word": "heartily",
+      "Hint": "In a cheerful or enthusiastic way.",
+      "Audio": "heartily.mp3"
+    },
+    {
+      "Word": "perching",
+      "Hint": "Sitting or resting on a branch or ledge.",
+      "Image": "perching.jpg",
+      "Audio": "perching.mp3"
+    },
+    {
+      "Word": "scratching",
+      "Hint": "Rubbing or scraping a surface with something sharp or rough",
+      "Audio": "scratching.mp3"
+    },
+    {
+      "Word": "woven",
+      "Hint": "Made by interlacing threads or fibers together.",
+      "Image": "woven.jpg",
+      "Audio": "woven.mp3"
+    },
+    {
+      "Word": "stitched",
+      "Hint": "Sewn together with a needle and thread",
+      "Image": "stitched.jpg",
+      "Audio": "stitched.mp3"
+    },
+    {
+      "Word": "chisel",
+      "Hint": "A tool with a sharp edge used for carving or cutting hard materials.",
+      "Image": "chisel.jpg",
+      "Audio": "chisel.mp3",
+      "Month": "June"
+    },
+    {
+      "Word": "upstroke",
+      "Hint": "The upward and backward movement of a bird's wings during flight",
+      "Image": "upstroke.jpg",
+      "Audio": "upstroke.mp3",
+      "Month": "June"
+    },
+    {
+      "Word": "bird feeders",
+      "Hint": "Containers filled with food to attract and feed birds.",
+      "Image": "bird-feeders.jpg",
+      "Audio": "bird-feeders.mp3"
+    },
+    {
+      "Word": "webbed",
+      "Hint": "Having skin stretched between the toes, like a duck's feet.",
+      "Image": "webbed.jpg",
+      "Audio": "webbed.mp3"
+    },
+    {
+      "Word": "edged",
+      "Hint": "Having a border or sharp boundary.",
+      "Image": "edged.png",
+      "Audio": "edged.mp3"
+    },
+    {
+      "Word": "respect",
+      "Hint": "Showing admiration or consideration for someone or something",
+      "Audio": "respect.mp3"
+    },
+    {
+      "Word": "encourage",
+      "Hint": "To give support, confidence, or hope to someone.",
+      "Audio": "encourage.mp3"
+    },
+    {
+      "Word": "participate",
+      "Hint": "To take part in an activity or event",
+      "Audio": "participate.mp3"
+    },
+    {
+      "Word": "occupations",
+      "Hint": "Jobs or professions that people do for work.",
+      "Audio": "occupations.mp3"
+    },
+    {
+      "Word": "historians",
+      "Hint": "People who study and write about past events.",
+      "Audio": "historians.mp3"
+    },
+    {
+      "Word": "calendar",
+      "Hint": "A system used to organize days, months, and years.",
+      "Image": "calendar.png",
+      "Audio": "historians.mp3"
+    },
+    {
+      "Word": "anniversaries",
+      "Hint": "Special dates marking a past event's yearly return.",
+      "Audio": "anniversaries.mp3"
+    },
+    {
+      "Word": "decade",
+      "Hint": "A period of ten years.",
+      "Audio": "decade.mp3"
+    },
+    {
+      "Word": "century",
+      "Hint": "A period of one hundred years..",
+      "Audio": "century.mp3"
+    },
+    {
+      "Word": "library",
+      "Hint": "A place where books, magazines, and other materials are kept for reading and research.",
+      "Image": "library.jpg",
+      "Audio": "library.mp3"
+    },
+    {
+      "Word": "canvas",
+      "Hint": "A piece of strong cloth for painting a picture on",
+      "Image": "canvas.jpeg",
+      "Audio": "canvas.mp3"
+    },
+    {
+      "Word": "Microsoft",
+      "Hint": "A leading technology company known for software like Windows and Office.",
+      "Image": "microsoft.png",
+      "Audio": "Microsoft.mp3"
+    },
+    {
+      "Word": "doodle",
+      "Hint": "A simple drawing or scribble made absentmindedly.",
+      "Image": "doodle.jpg",
+      "Audio": "doodle.mp3"
+    },
+    {
+      "Word": "verification",
+      "Hint": "The process of confirming accuracy or truth.",
+      "Audio": "verification.mp3"
+    },
+    {
+      "Word": "subtrahend",
+      "Hint": "The number being subtracted in a subtraction operation.",
+      "Image": "subtrahend.png",
+      "Audio": "subtrahend.mp3"
+    },
+    {
+      "Word": "inclusive",
+      "Hint": "Welcoming and accommodating everyone, without exclusion.",
+      "Audio": "inclusive.mp3"
+    },
+    {
+      "Word": "minuend",
+      "Hint": "The number from which another number (subtrahend) is subtracted.",
+      "Image": "minuend.png",
+      "Audio": "minuend.mp3"
+    },
+    {
+      "Word": "water-babies",
+      "Hint": "A reference from english chapter about a boy who becomes a water creature.",
+      "Audio": "water-babies.mp3",
+      "Month": "June"
+    },
+    {
+      "Word": "chimney sweep",
+      "Hint": "A person who cleans soot from chimneys.",
+      "Audio": "chimney sweep.mp3"
+    },
+    {
+      "Word": "boulder",
+      "Hint": "A large, rounded rock, typically found in nature.",
+      "Image": "boulder.jpg",
+      "Audio": "boulder.mp3"
+    },
+    {
+      "Word": "mended",
+      "Hint": "Repaired or fixed something that was broken.",
+      "Audio": "mended.mp3"
+    },
+    {
+      "Word": "rock pools",
+      "Hint": "Small water-filled depressions in coastal rocks, home to marine life.",
+      "Audio": "rock pools.mp3"
+    },
+    {
+      "Word": "sewers",
+      "Hint": "Underground pipes that carry waste and rainwater.",
+      "Image": "sewers.jpg",
+      "Audio": "sewers.mp3"
+    },
+    {
+      "Word": "sea anemones",
+      "Hint": "Marine animals resembling flowers, with tentacles to catch prey.",
+      "Image": "sea anemones.jpg",
+      "Audio": "sea anemones.mp3"
+    },
+    {
+      "Word": "ripple",
+      "Hint": "Small waves or movements on the surface of water.",
+      "Image": "ripple.jpg",
+      "Audio": "ripple.mp3"
+    },
+    {
+      "Word": "chitin",
+      "Hint": "A tough, protective substance found in the exoskeletons of insects and crustaceans.",
+      "Image": "image.png",
+      "Audio": "chitin.mp3"
+    },
+    {
+      "Word": "thorax",
+      "Hint": "The middle section of an insect's body, located between the head and abdomen, where the legs and wings attach.",
+      "Image": "thorax.jpg",
+      "Audio": "thorax.mp3"
+    },
+    {
+      "Word": "abdomen",
+      "Hint": "The lower part of an insect's body that contains the digestive and reproductive organs.",
+      "Image": "abdomen.png",
+      "Audio": "abdomen.mp3"
+    },
+    {
+      "Word": "cocoon",
+      "Hint": "A silky case spun by larvae to protect themselves while they develop into adults.",
+      "Image": "cocoon.jpg",
+      "Audio": "cocoon.mp3"
+    },
+    {
+      "Word": "larva",
+      "Hint": "An early stage of an insect's life cycle before it transforms into an adult, often worm-like in appearance.",
+      "Image": "larva.png",
+      "Audio": "larva.mp3"
+    },
+    {
+      "Word": "mounds",
+      "Hint": "Raised piles of earth or other material, often built by insects like termites or ants as nests.",
+      "Image": "mounds.jpg",
+      "Audio": "mounds.mp3"
+    },
     {
       "Word": "drones",
       "Hint": "Male bees whose primary role is to mate with the queen bee.",
-     
       "Audio": "drones.mp3"
-  },
-  {
+    },
+    {
       "Word": "mosquitoes",
       "Hint": "Small flying insects known for biting and spreading diseases like malaria and dengue.",
-      "Image": "mosquitoes.webp",
+      "Image": "mosquitoes.png",
       "Audio": "mosquitoes.mp3"
-  },
-  {
+    },
+    {
       "Word": "transmitting",
       "Hint": "The act of passing something, such as signals, messages, or diseases, from one place or person to another.",
-     
       "Audio": "transmitting.mp3"
-  },
-  {
+    },
+    {
       "Word": "caterpillar",
       "Hint": "The larval stage of a butterfly or moth, usually worm-like and known for eating leaves.",
       "Image": "caterpillar.jpg",
       "Audio": "caterpillar.mp3"
-  },
-  {
+    },
+    {
       "Word": "community",
       "Hint": "A group of people living together or sharing common interests and values.",
       "Audio": "community.mp3"
-  },
-  {
+    },
+    {
       "Word": "domesticate",
       "Hint": "To train or breed an animal to live and work with humans.",
-     
       "Audio": "domesticate.mp3"
-  },
-  {
+    },
+    {
       "Word": "vaccination",
       "Hint": "A process of giving a vaccine to protect against diseases by stimulating the immune system.",
       "Image": "vaccination.png",
       "Audio": "vaccination.mp3"
-  },
-  {
+    },
+    {
       "Word": "dignity",
       "Hint": "The quality of being worthy of respect and honor.",
       "Audio": "dignity.mp3"
-  },
-  {
+    },
+    {
       "Word": "extinguisher",
       "Hint": "A device used to put out fires by spraying water or chemicals.",
       "Image": "extinguisher.jpeg",
       "Audio": "extinguisher.mp3"
-  },
-  {
+    },
+    {
       "Word": "labour",
       "Hint": "Work, especially physical effort, done to achieve something.",
       "Image": "labour.png",
       "Audio": "labour.mp3"
-  },
-  {
+    },
+    {
       "Word": "language",
       "Hint": "A system of communication used by people, including speech, writing, and gestures.",
       "Audio": "language.mp3"
-  },
-  {
+    },
+    {
       "Word": "inclusive",
       "Hint": "Open to all and not excluding anyone based on differences.",
       "Audio": "inclusive.mp3"
-  },
-  {
+    },
+    {
       "Word": "differently-abled",
       "Hint": "A term used to describe individuals with physical or mental disabilities in a respectful way.",
       "Image": "differently-abled.jpg",
       "Audio": "differently-abled.mp3"
-  },
-  {
+    },
+    {
       "Word": "communicate",
       "Hint": "To share information, ideas, or feelings through speaking, writing, or other means.",
-      
       "Audio": "communicate.mp3"
-  },
-  {
+    },
+    {
       "Word": "default",
       "Hint": "A pre-set condition or option that is used if no alternative is chosen.",
-     
       "Audio": "default.mp3"
-  },
-  {
+    },
+    {
       "Word": "presentable",
       "Hint": "Neat, clean, and well-dressed, suitable for being seen by others.",
-      
       "Audio": "presentable.mp3"
-  },
-  {
-    "Word": "maximize",
-    "Hint": "To increase something as much as possible or make it as large as it can be.",
-   
-    "Audio": "maximize.mp3"
-},
-{
-    "Word": "automatically",
-    "Hint": "Happening by itself, without needing human control or intervention.",
-   
-    "Audio": "automatically.mp3"
-},
-{
-    "Word": "cursor",
-    "Hint": "A movable indicator on a computer screen showing where the next action will take place.",
-    "Image": "cursor.png",
-    "Audio": "cursor.mp3",
-    "Month": "June"
-},
-{
-    "Word": "multiplicand",
-    "Hint": "A number that is to be multiplied by another number (the multiplier).",
-    "Image": "multiplicand.png",
-    "Audio": "multiplicand.mp3"
-},
-{
-    "Word": "product",
-    "Hint": "The result of multiplying two or more numbers together.",
-    "Image": "product.jpg",
-    "Audio": "product.mp3"
-},
-{
-    "Word": "methods",
-    "Hint": "Ways or techniques used to do something efficiently and correctly.",
-    "Audio": "methods.mp3"
-},
-{
-    "Word": "multiplication",
-    "Hint": "A mathematical operation used to find the total when one number is taken multiple times.",
-    "Image": "multiplication.png",
-    "Audio": "multiplication.mp3"
-},
-{
-    "Word": "multiplier",
-    "Hint": "A number by which another number (the multiplicand) is multiplied.",
-    "Image": "multiplier.webp",
-    "Audio": "multiplier.mp3"
-},
-{
-    "Word": "excitement",
-    "Hint": "A feeling of great enthusiasm and eagerness.",
-    
-    "Audio": "excitement.mp3"
-},
-{
-    "Word": "board",
-    "Hint": "To get on the bus,train, ship or plane",
-    
-    "Audio": "board.mp3"
-},
-{
-    "Word": "compartment",
-    "Hint": "A separate section or space within a larger structure, such as a train or a container.",
-    "Image": "compartment.webp",
-    "Audio": "compartment.mp3",
-    "Month": "June"
-},
-{
-    "Word": "stationmaster",
-    "Hint": "A person in charge of a railway station, overseeing its operations.",
-    "Image": "stationmaster.jpg",
-    "Audio": "stationmaster.mp3",
-    "Month": "June"
-},
-{
-  "Word": "bubbling",
-  "Hint": "The process of forming bubbles, often seen in boiling water or carbonated drinks.",
-  "Image": "bubbling.webp",
-  "Audio": "bubbling.mp3"
-},
-{
-  "Word": "stagecoaches",
-  "Hint": "Horse-drawn vehicles used for transportation before cars and trains.",
-  "Image": "stagecoaches.webp",
-  "Audio": "stagecoaches.mp3"
-},
-{
-  "Word": "boiler",
-  "Hint": "A device used to heat water or produce steam for heating or power generation.",
-  "Audio": "boiler.mp3"
-},
-{
-  "Word": "locomotives",
-  "Hint": "Engines that move trains on railway tracks.",
-  "Image": "locomotives.jpg",
-  "Audio": "locomotives.mp3"
-},
-{
-  "Word": "generator",
-  "Hint": "A machine that produces electricity.",
-  "Image": "generator.jpg",
-  "Audio": "generator.mp3"
-},
-{
-  "Word": "polluting",
-  "Hint": "Contaminating the environment with harmful substances.",
-  "Audio": "polluting.mp3"
-},
-{
-  "Word": "fibrous root",
-  "Hint": "A root system with many thin roots spreading out, found in grasses.",
-  "Image": "fibrous root.jpg",
-  "Audio": "fibrous root.mp3"
-},
-{
-  "Word": "nutrients",
-  "Hint": "Substances that provide nourishment essential for growth and life.",
- 
-  "Audio": "nutrients.mp3",
-  "Month": "June"
-},
-{
-  "Word": "cotyledon",
-  "Hint": "The first leaf or leaves of a plant embryo inside a seed.",
-  "Image": "cotyledon.png",
-  "Audio": "cotyledon.mp3"
-},
-{
-  "Word": "embryo",
-  "Hint": "An early stage of development in plants and animals.",
-  "Image": "embryo.webp",
-  "Audio": "embryo.mp3"
-},
-{
-  "Word": "germination",
-  "Hint": "The process of a seed growing into a new plant.",
-  "Image": "germination.jpg",
-  "Audio": "germination.mp3"
-},
-{
-  "Word": "seed coat",
-  "Hint": "The outer protective layer of a seed.",
-  "Image": "seed coat.png",
-  "Audio": "seed coat.mp3"
-},
-{
-  "Word": "photosynthesis",
-  "Hint": "The process by which plants make their food using sunlight.",
-  "Image": "photosynthesis.png",
-  "Audio": "photosynthesis.mp3"
-},
-{
-  "Word": "reproduction",
-  "Hint": "The biological process by which new organisms are produced.",
-  
-  "Audio": "reproduction.mp3"
-},
-{
-  "Word": "advertisements",
-  "Hint": "Notices or commercials designed to promote products or services.",
-  "Audio": "advertisements.mp3"
-},
-{
-  "Word": "appliances",
-  "Hint": "Electrical or mechanical devices used in households, like a refrigerator or microwave.",
-  "Image": "image.png",
-  "Audio": "audio.mp3",
-  "Month": "June"
-},
-{
-  "Word": "detergent",
-  "Hint": "A cleaning substance used for washing clothes or dishes.",
-  "Image": "detergent.jpg",
-  "Audio": "detergent.mp3"
-},
-{
-  "Word": "inflammable",
-  "Hint": "Easily set on fire and capable of burning quickly.",
-
-  "Audio": "inflammable.mp3"
-},
-{
-  "Word": "poisonous",
-  "Hint": "Harmful or deadly when consumed or touched.",
-  "Audio": "poisonous.mp3"
-},
-{
-  "Word": "thermometer",
-  "Hint": "An instrument used to measure temperature.",
-  "Image": "thermometer.jpg",
-  "Audio": "thermometer.mp3"
-},
-{
-  "Word": "ointment",
-  "Hint": "A smooth, greasy substance used for treating skin conditions.",
-  "Image": "ointment",
-  "Audio": "ointment.mp3"
-},
-{
-  "Word": "dividend",
-  "Hint": "A number being divided in a division problem",
-  "Image": "dividend.webp",
-  "Audio": "dividend.mp3"
-},
-{
-  "Word": "wound",
-  "Hint": "An injury to the body, usually involving a cut or break in the skin.",
-  "Image": "wound.jpg",
-  "Audio": "wound.mp3"
-},
-{
-  "Word": "quotient",
-  "Hint": "The result obtained when one number is divided by another.",
-  "Image": "quotient.png",
-  "Audio": "quotient.mp3"
-},
-{
-  "Word": "divisor",
-  "Hint": "A number that divides another number exactly.",
-  "Image": "divisor.webp",
-  "Audio": "divisor.mp3"
-},
-{
-  "Word": "remainder",
-  "Hint": "The amount left over after division when a number does not divide evenly.",
-  "Image": "remainder.png",
-  "Audio": "remainder.mp3"
-},
-{
-  "Word": "document",
-  "Hint": "A written or printed record that provides information or evidence.",
-  "Image": "document.png",
-  "Audio": "document.mp3"
-},
-{
-  "Word": "information",
-  "Hint": "Knowledge or facts learned about something or someone.",
- 
-  "Audio": "information.mp3"
-},
-{
-  "Word": "character",
-  "Hint": "A person in a story, play, or movie; also refers to qualities that define someone.",
- 
-  "Audio": "charecter.mp3"
-},
-{
-  "Word": "carnival",
-  "Hint": "A festive event with parades, music, and entertainment.",
-  "Image": "carnival.jpeg",
-  "Audio": "carnival.mp3"
-},
-{
-  "Word": "instructions",
-  "Hint": "Detailed steps or guidelines on how to do something.",
-
-  "Audio": "instructions.mp3"
-},
-{
-  "Word": "edible",
-  "Hint": "Something that is safe to eat.",
-  "Audio": "edible.mp3"
-},
-{
-  "Word": "cornfield",
-  "Hint": "A large area of land where corn is grown.",
-  "Image": "cornfield.jpeg",
-  "Audio": "cornfield.mp3"
-},
-{
-  "Word": "growling",
-  "Hint": "A deep, rumbling sound made by an animal or a person when angry.",
-  "Audio": "growling.mp3"
-},
-{
-  "Word": "shush",
-  "Hint": "A sound or gesture used to tell someone to be quiet.",
-  "Image": "shush.webp",
-  "Audio": "shush.mp3"
- 
-},
-{
-  "Word": "natural",
-  "Hint": "Something that exists in nature and is not made by humans.",
- 
-  "Audio": "natural.mp3"
-},
-{
-  "Word": "cyclone",
-  "Hint": "A powerful storm with strong winds that rotate in a circular motion.",
-  "Image": "cyclone.webp",
-  "Audio": "cyclone.mp3"
-},
-{
-  "Word": "befriended",
-  "Hint": "To make friends with someone.",
- 
-  "Audio": "befriended.mp3"
-},
-{
-  "Word": "scarecrow",
-  "Hint": "A figure made to look like a person to scare birds away from crops.",
-  "Image": "scarecrow.jpegg",
-  "Audio": "scarecrow.mp3"
-},
-{
-  "Word": "startled",
-  "Hint": "To be suddenly surprised or shocked.",
-  "Audio": "startled.mp3"
-},
-{
-  "Word": "groans",
-  "Hint": "A low sound made when someone is in pain or unhappy.",
-  
-  "Audio": "groans.mp3"
-},
-{
-  "Word": "uncomfortable",
-  "Hint": "Feeling uneasy or not at ease.",
- 
-  "Audio": "uncomfortable.mp3"
-},
-{
-  "Word": "tinsmith",
-  "Hint": "A person who makes or repairs things made of tin.",
-  "Image": "tinsmith.jpeg",
-  "Audio": "tinsmith.mp3"
-},
-{
-  "Word": "cereal",
-  "Hint": "A grain used for food, such as wheat or corn, often eaten for breakfast.",
- 
-  "Audio": "cereal.mp3"
-},
-{
-  "Word": "climbers",
-  "Hint": "Plants that grow upwards by holding onto surfaces, or people who climb mountains.",
-  "Image": "climbers.webp",
-  "Audio": "climbers.mp3",
-  "Month": "June"
-},
-{
-  "Word": "creepers",
-  "Hint": "Plants that spread along the ground instead of growing tall.",
-  "Image": "creepers.jpeg",
-  "Audio": "creepers.mp3"
-},
-{
-  "Word": "shrubs",
-  "Hint": "Small woody plants that are shorter than trees.",
-  "Image": "shrubs.jpg",
-  "Audio": "shrubs.mp3"
-},
-{
-  "Word": "trunk",
-  "Hint": "The thick main stem of a tree or a large storage box.",
-  "Image": "trunk.jpg",
-  "Audio": "trunk.mp3"
-},
-{
-  "Word": "liquids",
-  "Hint": "Substances that flow freely, such as water or milk.",
-  "Image": "liquids.jpeg",
-  "Audio": "liquids.mp3"
-},
-{
-  "Word": "effigy",
-  "Hint": "A model or statue of a person, often used in protests.",
-  "Image": "effigy.webp",
-  "Audio": "effigy.mp3"
-},
-{
-  "Word": "heritage",
-  "Hint": "Cultural traditions, buildings, and artifacts passed down through generations.",
-
-  "Audio": "heritage.mp3"
-},
-{
-  "Word": "ancestor",
-  "Hint": "A person from whom one is descended, typically from past generations.",
-  "Audio": "ancestor.mp3"
-},
-{
-  "Word": "monument",
-  "Hint": "A structure built to commemorate a person or an important event in history.",
-  "Image": "monument.jpg",
-  "Audio": "monument.mp3"
-},
-{
-  "Word": "material",
-  "Hint": "A substance or matter used to make things, such as wood, metal, or fabric.",
-  "Audio": "material.mp3"
-},
-{
-  "Word": "sculpture",
-  "Hint": "A three-dimensional work of art made by carving stone, metal, or clay.",
-  "Image": "sculpture.webp",
-  "Audio": "sculpture.mp3"
-},
-{
-  "Word": "historical",
-  "Hint": "Related to past events, people, or periods of history.",
-  "Audio": "historical.mp3"
-},
-{
-  "Word": "ancient",
-  "Hint": "Very old or belonging to early history, often before the Middle Ages.",
-  "Audio": "ancient.mp3"
-},
-{
-  "Word": "attraction",
-  "Hint": "A place or thing that draws people's interest or attention.",
-  "Audio": "attraction.mp3"
-},
-{
-  "Word": "diagonals",
-  "Hint": "Lines connecting opposite corners in a polygon or shape.",
-  "Image": "diagonals.png",
-  "Audio": "diagonals.mp3"
-},
-{
-  "Word": "tessellation",
-  "Hint": "A pattern of shapes that fit together without gaps or overlaps.",
-  "Image": "tessellation.png",
-  "Audio": "tessellation.mp3"
-},
-{
-  "Word": "adjacent",
-  "Hint": "Next to or adjoining something else, such as neighboring objects or places.",
-  "Audio": "adjacent.mp3"
-},
-{
-  "Word": "feature",
-  "Hint": "A distinct characteristic or attribute of something.",
-  "Audio": "feature.mp3"
-},
-{
-  "Word": "application",
-  "Hint": "A software program designed to perform specific tasks.",
- 
-  "Audio": "application.mp3"
-},
-{
-  "Word": "gadgets",
-  "Hint": "Small technological devices or tools designed to make tasks easier.",
-  "Image": "gadgets.jpeg",
-  "Audio": "gadgets.mp3"
-},
-{
-  "Word": "assistants",
-  "Hint": "People or digital tools that help with tasks or duties.",
- 
-  "Audio": "assistants.mp3"
-},
-{
-  "Word": "sphere",
-  "Hint": "A perfectly round three-dimensional shape, like a ball.",
-  "Image": "sphere.jpeg",
-  "Audio": "sphere.mp3"
-},
-{
-  "Word": "pattern",
-  "Hint": "A sequence of elements.",
-  "Image": "pattern.png",
-  "Audio": "pattern.mp3"
-},
-{
-  "Word": "cylinder",
-  "Hint": "A 3D shape with two parallel circular bases and a curved surface.",
-  "Image": "cylinder.jpg",
-  "Audio": "cylinder.mp3"
-}
+    },
+    {
+      "Word": "maximize",
+      "Hint": "To increase something as much as possible or make it as large as it can be.",
+      "Audio": "maximize.mp3"
+    },
+    {
+      "Word": "automatically",
+      "Hint": "Happening by itself, without needing human control or intervention.",
+      "Audio": "automatically.mp3"
+    },
+    {
+      "Word": "cursor",
+      "Hint": "A movable indicator on a computer screen showing where the next action will take place.",
+      "Image": "cursor.png",
+      "Audio": "cursor.mp3",
+      "Month": "June"
+    },
+    {
+      "Word": "multiplicand",
+      "Hint": "A number that is to be multiplied by another number (the multiplier).",
+      "Image": "multiplicand.png",
+      "Audio": "multiplicand.mp3"
+    },
+    {
+      "Word": "product",
+      "Hint": "The result of multiplying two or more numbers together.",
+      "Image": "product.jpg",
+      "Audio": "product.mp3"
+    },
+    {
+      "Word": "methods",
+      "Hint": "Ways or techniques used to do something efficiently and correctly.",
+      "Audio": "methods.mp3"
+    },
+    {
+      "Word": "multiplication",
+      "Hint": "A mathematical operation used to find the total when one number is taken multiple times.",
+      "Image": "multiplication.png",
+      "Audio": "multiplication.mp3"
+    },
+    {
+      "Word": "multiplier",
+      "Hint": "A number by which another number (the multiplicand) is multiplied.",
+      "Image": "multiplier.png",
+      "Audio": "multiplier.mp3"
+    },
+    {
+      "Word": "excitement",
+      "Hint": "A feeling of great enthusiasm and eagerness.",
+      "Audio": "excitement.mp3"
+    },
+    {
+      "Word": "board",
+      "Hint": "To get on the bus,train, ship or plane",
+      "Audio": "board.mp3"
+    },
+    {
+      "Word": "compartment",
+      "Hint": "A separate section or space within a larger structure, such as a train or a container.",
+      "Image": "compartment.png",
+      "Audio": "compartment.mp3",
+      "Month": "June"
+    },
+    {
+      "Word": "stationmaster",
+      "Hint": "A person in charge of a railway station, overseeing its operations.",
+      "Image": "stationmaster.jpg",
+      "Audio": "stationmaster.mp3",
+      "Month": "June"
+    },
+    {
+      "Word": "bubbling",
+      "Hint": "The process of forming bubbles, often seen in boiling water or carbonated drinks.",
+      "Image": "bubbling.png",
+      "Audio": "bubbling.mp3"
+    },
+    {
+      "Word": "stagecoaches",
+      "Hint": "Horse-drawn vehicles used for transportation before cars and trains.",
+      "Image": "stagecoaches.png",
+      "Audio": "stagecoaches.mp3"
+    },
+    {
+      "Word": "boiler",
+      "Hint": "A device used to heat water or produce steam for heating or power generation.",
+      "Audio": "boiler.mp3"
+    },
+    {
+      "Word": "locomotives",
+      "Hint": "Engines that move trains on railway tracks.",
+      "Image": "locomotives.jpg",
+      "Audio": "locomotives.mp3"
+    },
+    {
+      "Word": "generator",
+      "Hint": "A machine that produces electricity.",
+      "Image": "generator.jpg",
+      "Audio": "generator.mp3"
+    },
+    {
+      "Word": "polluting",
+      "Hint": "Contaminating the environment with harmful substances.",
+      "Audio": "polluting.mp3"
+    },
+    {
+      "Word": "fibrous root",
+      "Hint": "A root system with many thin roots spreading out, found in grasses.",
+      "Image": "fibrous root.jpg",
+      "Audio": "fibrous root.mp3"
+    },
+    {
+      "Word": "nutrients",
+      "Hint": "Substances that provide nourishment essential for growth and life.",
+      "Audio": "nutrients.mp3",
+      "Month": "June"
+    },
+    {
+      "Word": "cotyledon",
+      "Hint": "The first leaf or leaves of a plant embryo inside a seed.",
+      "Image": "cotyledon.png",
+      "Audio": "cotyledon.mp3"
+    },
+    {
+      "Word": "embryo",
+      "Hint": "An early stage of development in plants and animals.",
+      "Image": "embryo.png",
+      "Audio": "embryo.mp3"
+    },
+    {
+      "Word": "germination",
+      "Hint": "The process of a seed growing into a new plant.",
+      "Image": "germination.jpg",
+      "Audio": "germination.mp3"
+    },
+    {
+      "Word": "seed coat",
+      "Hint": "The outer protective layer of a seed.",
+      "Image": "seed coat.png",
+      "Audio": "seed coat.mp3"
+    },
+    {
+      "Word": "photosynthesis",
+      "Hint": "The process by which plants make their food using sunlight.",
+      "Image": "photosynthesis.png",
+      "Audio": "photosynthesis.mp3"
+    },
+    {
+      "Word": "reproduction",
+      "Hint": "The biological process by which new organisms are produced.",
+      "Audio": "reproduction.mp3"
+    },
+    {
+      "Word": "advertisements",
+      "Hint": "Notices or commercials designed to promote products or services.",
+      "Audio": "advertisements.mp3"
+    },
+    {
+      "Word": "appliances",
+      "Hint": "Electrical or mechanical devices used in households, like a refrigerator or microwave.",
+      "Image": "image.png",
+      "Audio": "appliances.mp3",
+      "Month": "June"
+    },
+    {
+      "Word": "detergent",
+      "Hint": "A cleaning substance used for washing clothes or dishes.",
+      "Image": "detergent.jpg",
+      "Audio": "detergent.mp3"
+    },
+    {
+      "Word": "inflammable",
+      "Hint": "Easily set on fire and capable of burning quickly.",
+      "Audio": "inflammable.mp3"
+    },
+    {
+      "Word": "poisonous",
+      "Hint": "Harmful or deadly when consumed or touched.",
+      "Audio": "poisonous.mp3"
+    },
+    {
+      "Word": "thermometer",
+      "Hint": "An instrument used to measure temperature.",
+      "Image": "thermometer.jpg",
+      "Audio": "thermometer.mp3"
+    },
+    {
+      "Word": "ointment",
+      "Hint": "A smooth, greasy substance used for treating skin conditions.",
+      "Image": "ointment",
+      "Audio": "ointment.mp3"
+    },
+    {
+      "Word": "dividend",
+      "Hint": "A number being divided in a division problem",
+      "Image": "dividend.png",
+      "Audio": "dividend.mp3"
+    },
+    {
+      "Word": "wound",
+      "Hint": "An injury to the body, usually involving a cut or break in the skin.",
+      "Image": "wound.jpg",
+      "Audio": "wound.mp3"
+    },
+    {
+      "Word": "quotient",
+      "Hint": "The result obtained when one number is divided by another.",
+      "Image": "quotient.png",
+      "Audio": "quotient.mp3"
+    },
+    {
+      "Word": "divisor",
+      "Hint": "A number that divides another number exactly.",
+      "Image": "divisor.png",
+      "Audio": "divisor.mp3"
+    },
+    {
+      "Word": "remainder",
+      "Hint": "The amount left over after division when a number does not divide evenly.",
+      "Image": "remainder.png",
+      "Audio": "remainder.mp3"
+    },
+    {
+      "Word": "document",
+      "Hint": "A written or printed record that provides information or evidence.",
+      "Image": "document.png",
+      "Audio": "document.mp3"
+    },
+    {
+      "Word": "information",
+      "Hint": "Knowledge or facts learned about something or someone.",
+      "Audio": "information.mp3"
+    },
+    {
+      "Word": "character",
+      "Hint": "A person in a story, play, or movie; also refers to qualities that define someone.",
+      "Audio": "charecter.mp3"
+    },
+    {
+      "Word": "carnival",
+      "Hint": "A festive event with parades, music, and entertainment.",
+      "Image": "carnival.jpeg",
+      "Audio": "carnival.mp3"
+    },
+    {
+      "Word": "instructions",
+      "Hint": "Detailed steps or guidelines on how to do something.",
+      "Audio": "instructions.mp3"
+    },
+    {
+      "Word": "edible",
+      "Hint": "Something that is safe to eat.",
+      "Audio": "edible.mp3"
+    },
+    {
+      "Word": "cornfield",
+      "Hint": "A large area of land where corn is grown.",
+      "Image": "cornfield.jpeg",
+      "Audio": "cornfield.mp3"
+    },
+    {
+      "Word": "growling",
+      "Hint": "A deep, rumbling sound made by an animal or a person when angry.",
+      "Audio": "growling.mp3"
+    },
+    {
+      "Word": "shush",
+      "Hint": "A sound or gesture used to tell someone to be quiet.",
+      "Image": "shush.png",
+      "Audio": "shush.mp3"
+    },
+    {
+      "Word": "natural",
+      "Hint": "Something that exists in nature and is not made by humans.",
+      "Audio": "natural.mp3"
+    },
+    {
+      "Word": "cyclone",
+      "Hint": "A powerful storm with strong winds that rotate in a circular motion.",
+      "Image": "cyclone.png",
+      "Audio": "cyclone.mp3"
+    },
+    {
+      "Word": "befriended",
+      "Hint": "To make friends with someone.",
+      "Audio": "befriended.mp3"
+    },
+    {
+      "Word": "scarecrow",
+      "Hint": "A figure made to look like a person to scare birds away from crops.",
+      "Image": "scarecrow.jpegg",
+      "Audio": "scarecrow.mp3"
+    },
+    {
+      "Word": "startled",
+      "Hint": "To be suddenly surprised or shocked.",
+      "Audio": "startled.mp3"
+    },
+    {
+      "Word": "groans",
+      "Hint": "A low sound made when someone is in pain or unhappy.",
+      "Audio": "groans.mp3"
+    },
+    {
+      "Word": "uncomfortable",
+      "Hint": "Feeling uneasy or not at ease.",
+      "Audio": "uncomfortable.mp3"
+    },
+    {
+      "Word": "tinsmith",
+      "Hint": "A person who makes or repairs things made of tin.",
+      "Image": "tinsmith.jpg",
+      "Audio": "tinsmith.mp3"
+    },
+    {
+      "Word": "cereal",
+      "Hint": "A grain used for food, such as wheat or corn, often eaten for breakfast.",
+      "Audio": "cereal.mp3"
+    },
+    {
+      "Word": "climbers",
+      "Hint": "Plants that grow upwards by holding onto surfaces, or people who climb mountains.",
+      "Image": "climbers.png",
+      "Audio": "climbers.mp3",
+      "Month": "June"
+    },
+    {
+      "Word": "creepers",
+      "Hint": "Plants that spread along the ground instead of growing tall.",
+      "Image": "creepers.jpeg",
+      "Audio": "creepers.mp3"
+    },
+    {
+      "Word": "shrubs",
+      "Hint": "Small woody plants that are shorter than trees.",
+      "Image": "shrubs.jpg",
+      "Audio": "shrubs.mp3"
+    },
+    {
+      "Word": "trunk",
+      "Hint": "The thick main stem of a tree or a large storage box.",
+      "Image": "trunk.jpg",
+      "Audio": "trunk.mp3"
+    },
+    {
+      "Word": "liquids",
+      "Hint": "Substances that flow freely, such as water or milk.",
+      "Image": "liquids.jpeg",
+      "Audio": "liquids.mp3"
+    },
+    {
+      "Word": "effigy",
+      "Hint": "A model or statue of a person, often used in protests.",
+      "Image": "effigy.png",
+      "Audio": "effigy.mp3"
+    },
+    {
+      "Word": "heritage",
+      "Hint": "Cultural traditions, buildings, and artifacts passed down through generations.",
+      "Audio": "heritage.mp3"
+    },
+    {
+      "Word": "ancestor",
+      "Hint": "A person from whom one is descended, typically from past generations.",
+      "Audio": "ancestor.mp3"
+    },
+    {
+      "Word": "monument",
+      "Hint": "A structure built to commemorate a person or an important event in history.",
+      "Image": "monument.jpg",
+      "Audio": "monument.mp3"
+    },
+    {
+      "Word": "material",
+      "Hint": "A substance or matter used to make things, such as wood, metal, or fabric.",
+      "Audio": "material.mp3"
+    },
+    {
+      "Word": "sculpture",
+      "Hint": "A three-dimensional work of art made by carving stone, metal, or clay.",
+      "Image": "sculpture.png",
+      "Audio": "sculpture.mp3"
+    },
+    {
+      "Word": "historical",
+      "Hint": "Related to past events, people, or periods of history.",
+      "Audio": "historical.mp3"
+    },
+    {
+      "Word": "ancient",
+      "Hint": "Very old or belonging to early history, often before the Middle Ages.",
+      "Audio": "ancient.mp3"
+    },
+    {
+      "Word": "attraction",
+      "Hint": "A place or thing that draws people's interest or attention.",
+      "Audio": "attraction.mp3"
+    },
+    {
+      "Word": "diagonals",
+      "Hint": "Lines connecting opposite corners in a polygon or shape.",
+      "Image": "diagonals.png",
+      "Audio": "diagonals.mp3"
+    },
+    {
+      "Word": "tessellation",
+      "Hint": "A pattern of shapes that fit together without gaps or overlaps.",
+      "Image": "tessellation.png",
+      "Audio": "tessellation.mp3"
+    },
+    {
+      "Word": "adjacent",
+      "Hint": "Next to or adjoining something else, such as neighboring objects or places.",
+      "Audio": "adjacent.mp3"
+    },
+    {
+      "Word": "feature",
+      "Hint": "A distinct characteristic or attribute of something.",
+      "Audio": "feature.mp3"
+    },
+    {
+      "Word": "application",
+      "Hint": "A software program designed to perform specific tasks.",
+      "Audio": "application.mp3"
+    },
+    {
+      "Word": "gadgets",
+      "Hint": "Small technological devices or tools designed to make tasks easier.",
+      "Image": "gadgets.jpeg",
+      "Audio": "gadgets.mp3"
+    },
+    {
+      "Word": "assistants",
+      "Hint": "People or digital tools that help with tasks or duties.",
+      "Audio": "assistants.mp3"
+    },
+    {
+      "Word": "sphere",
+      "Hint": "A perfectly round three-dimensional shape, like a ball.",
+      "Image": "sphere.jpg",
+      "Audio": "sphere.mp3"
+    },
+    {
+      "Word": "pattern",
+      "Hint": "A sequence of elements.",
+      "Image": "pattern.png",
+      "Audio": "pattern.mp3"
+    },
+    {
+      "Word": "cylinder",
+      "Hint": "A 3D shape with two parallel circular bases and a curved surface.",
+      "Image": "cylinder.jpg",
+      "Audio": "cylinder.mp3"
+    },
+    {
+      "Word": "Nutrients",
+      "Hint": "Substances that provide nourishment essential for growth and life.",
+      "Audio": "nutrients.mp3"
+    },
+    {
+      "Word": "Solute",
+      "Hint": "A substance that dissolves in a solvent to form a solution.",
+      "Image": "solute.png",
+      "Audio": "solute.mp3"
+    },
+    {
+      "Word": "Leader",
+      "Hint": "A person who guides or directs others.",
+      "Audio": "leader.mp3"
+    },
+    {
+      "Word": "Gladdest",
+      "Hint": "Feeling the most joy or happiness.",
+      "Audio": "gladdest.mp3"
+    },
+    {
+      "Word": "Cliffs",
+      "Hint": "Steep rock faces, especially at the edge of the sea.",
+      "Image": "cliffs.jpg",
+      "Audio": "cliffs.mp3"
+    },
+    {
+      "Word": "Leader",
+      "Hint": "A person who guides or directs others.",
+      "Audio": "leader.mp3"
+    },
+    {
+      "Word": "Mass",
+      "Hint": "A measure of the amount of matter in an object.",
+      "Audio": "mass.mp3"
+    },
+    {
+      "Word": "Solvent",
+      "Hint": "A liquid that dissolves a solute to form a solution.",
+      "Image": "solvent.png",
+      "Audio": "solvent.mp3"
+    },
+    {
+      "Word": "Protest",
+      "Hint": "A public expression of objection or disapproval.",
+      "Audio": "protest.mp3"
+    },
+    {
+      "Word": "Capacity",
+      "Hint": "The maximum amount that something can hold.",
+      "Audio": "capacity.mp3"
+    },
+    {
+      "Word": "Bow-down",
+      "Hint": "To lower the head or body as a sign of respect or submission.",
+      "Image": "bow-down.jpg",
+      "Audio": "bow-down.mp3"
+    },
+    {
+      "Word": "solution",
+      "Hint": "A mixture in which one substance is dissolved in another.",
+      "Image": "solution.png",
+      "Audio": "solution.mp3"
+    },
+    {
+      "Word": "satyagraha",
+      "Hint": "A policy of passive political resistance, especially advocated by Mahatma Gandhi.",
+      "Audio": "satyagraha.mp3"
+    },
+    {
+      "Word": "millilitre",
+      "Hint": "A metric unit of capacity equal to one-thousandth of a liter.",
+      "Audio": "millilitre.mp3"
+    },
+    {
+      "Word": "sobbing",
+      "Hint": "Crying noisily with short, sudden breaths.",
+      "Image": "sobbing.jpeg",
+      "Audio": "sobbing.mp3"
+    },
+    {
+      "Word": "universal",
+      "Hint": "Relating to or affecting all people or things in the world.",
+      "Audio": "universal.mp3"
+    },
+    {
+      "Word": "revolt",
+      "Hint": "An attempt to overthrow a government or authority.",
+      "Audio": "revolt.mp3"
+    },
+    {
+      "Word": "measurement",
+      "Hint": "The process of obtaining the size, length, or amount of something.",
+      "Image": "measurement.png",
+      "Audio": "measurement.mp3"
+    },
+    {
+      "Word": "freezing",
+      "Hint": "Turning into ice due to cold temperature.",
+      "Image": "freezing.png",
+      "Audio": "freezing.mp3"
+    },
+    {
+      "Word": "circumstances",
+      "Hint": "The conditions surrounding an event or situation.",
+      "Audio": "circumstances.mp3"
+    },
+    {
+      "Word": "kilogram",
+      "Hint": "A unit of mass equal to 1,000 grams.",
+      "Image": "kilogram.png",
+      "Audio": "kilogram.mp3"
+    },
+    {
+      "Word": "coward",
+      "Hint": "A person who lacks courage to face danger or difficulty.",
+      "Audio": "coward.mp3"
+    },
+    {
+      "Word": "melting",
+      "Hint": "The process of a solid turning into a liquid due to heat.",
+      "Image": "melting.png",
+      "Audio": "melting.mp3"
+    },
+    {
+      "Word": "swaraj",
+      "Hint": "Self-rule or independence, especially in the context of India's freedom struggle.",
+      "Audio": "swaraj.mp3"
+    },
+    {
+      "Word": "queries",
+      "Hint": "Questions or requests for information.",
+      "Audio": "queries.mp3"
+    },
+    {
+      "Word": "roared",
+      "Hint": "Made a deep, loud, prolonged sound, like a lion.",
+      "Image": "roared.jpg",
+      "Audio": "roared.mp3"
+    },
+    {
+      "Word": "condensation",
+      "Hint": "The process of water vapor turning into liquid water.",
+      "Image": "condensation.jpg",
+      "Audio": "condensation.mp3"
+    },
+    {
+      "Word": "triumphs",
+      "Hint": "Great victories or achievements.",
+      "Audio": "triumphs.mp3"
+    },
+    {
+      "Word": "air-conditioners",
+      "Hint": "Devices used to cool or dehumidify indoor spaces.",
+      "Image": "air-conditioners.jpg",
+      "Audio": "air-conditioners.mp3"
+    },
+    {
+      "Word": "courage",
+      "Hint": "The ability to do something difficult or dangerous without fear.",
+      "Audio": "courage.mp3"
+    },
+    {
+      "Word": "evaporation",
+      "Hint": "The process of a liquid turning into a gas due to heat.",
+      "Image": "evaporation.png",
+      "Audio": "evaporation.mp3"
+    },
+    {
+      "Word": "country",
+      "Hint": "A nation with its own government and defined territory.",
+      "Image": "country.png",
+      "Audio": "country.mp3"
+    },
+    {
+      "Word": "refrigerator",
+      "Hint": "An appliance used to keep food and drinks cold.",
+      "Image": "refrigerator.jpg",
+      "Audio": "refrigerator.mp3"
+    },
+    {
+      "Word": "rusted",
+      "Hint": "Covered with rust due to oxidation.",
+      "Image": "rusted.jpeg",
+      "Audio": "rusted.mp3"
+    },
+    {
+      "Word": "soluble",
+      "Hint": "Capable of being dissolved in a liquid.",
+      "Audio": "soluble.mp3"
+    },
+    {
+      "Word": "animated",
+      "Hint": "Full of life and excitement or made using animation techniques.",
+      "Image": "animated.jpg",
+      "Audio": "animated.mp3"
+    },
+    {
+      "Word": "straw",
+      "Hint": "A thin tube used for drinking liquids or dried stalks of grain plants.",
+      "Image": "straw.png",
+      "Audio": "straw.mp3"
+    },
+    {
+      "Word": "insoluble",
+      "Hint": "Not able to be dissolved in a liquid.",
+      "Audio": "insoluble.mp3"
+    },
+    {
+      "Word": "prosperity",
+      "Hint": "The state of being successful and wealthy.",
+      "Audio": "prosperity.mp3"
+    },
+    {
+      "Word": "blocks palette",
+      "Hint": "A section in coding environments used to arrange blocks for programming.",
+      "Image": "blocks palette.png",
+      "Audio": "blocks palette.mp3"
+    },
+    {
+      "Word": "gymnast",
+      "Hint": "A person skilled in gymnastics.",
+      "Image": "gymnast.jpeg",
+      "Audio": "gymnast.mp3"
+    },
+    {
+      "Word": "chlorination",
+      "Hint": "The process of adding chlorine to water to disinfect it.",
+      "Audio": "chlorination.mp3"
+    },
+    {
+      "Word": "environment",
+      "Hint": "The natural world or surroundings where people, animals, and plants live.",
+      "Audio": "environment.mp3"
+    },
+    {
+      "Word": "pictograph",
+      "Hint": "A chart that uses pictures to represent data.",
+      "Image": "pictograph.png",
+      "Audio": "pictograph.mp3"
+    },
+    {
+      "Word": "fascinated",
+      "Hint": "Extremely interested or captivated by something.",
+      "Audio": "fascinated.mp3"
+    },
+    {
+      "Word": "conservation",
+      "Hint": "The protection and preservation of natural resources and the environment.",
+      "Image": "conservation.jpg",
+      "Audio": "conservation.mp3"
+    },
+    {
+      "Word": "pollutants",
+      "Hint": "Harmful substances that contaminate air, water, or soil.",
+      "Image": "pollutants.png",
+      "Audio": "pollutants.mp3"
+    },
+    {
+      "Word": "tallymarks",
+      "Hint": "A counting method using lines or marks to keep track of numbers.",
+      "Image": "tallymarks.png",
+      "Audio": "tallymarks.mp3"
+    },
+    {
+      "Word": "equipment",
+      "Hint": "Tools, machines, or objects needed for a specific task.",
+      "Audio": "equipment.mp3"
+    },
+    {
+      "Word": "harvesting",
+      "Hint": "The process of gathering crops or resources.",
+      "Image": "harvesting.jpg",
+      "Audio": "harvesting.mp3"
+    },
+    {
+      "Word": "deforestation",
+      "Hint": "The clearing or removal of forests, often for farming or construction.",
+      "Image": "deforestation.jpeg",
+      "Audio": "deforestation.mp3"
+    },
+    {
+      "Word": "key",
+      "Hint": "A tool used to unlock doors or something crucial to understanding a topic.",
+      "Audio": "key.mp3"
+    },
+    {
+      "Word": "set-up",
+      "Hint": "An arrangement or preparation for a specific purpose.",
+      "Audio": "set-up.mp3"
+    },
+    {
+      "Word": "afforestation",
+      "Hint": "The planting of trees in an area where there were none before.",
+      "Image": "afforestation.jpg",
+      "Audio": "afforestation.mp3"
+    },
+    {
+      "Word": "data handling",
+      "Hint": "The process of collecting, organizing, and analyzing data.",
+      "Image": "data handling.png",
+      "Audio": "data handling.mp3"
+    },
+    {
+      "Word": "conquer",
+      "Hint": "To defeat or gain control over something.",
+      "Audio": "conquer.mp3"
+    },
+    {
+      "Word": "renewable",
+      "Hint": "Resources that can be replenished naturally, like solar or wind energy.",
+      "Audio": "renewable.mp3"
+    },
+    {
+      "Word": "sewage",
+      "Hint": "Wastewater and other waste materials transported through drains.",
+      "Image": "sewage.jpg",
+      "Audio": "sewage.mp3"
+    },
+    {
+      "Word": "sprite",
+      "Hint": "A small, magical creature or a computer graphic object.",
+      "Image": "sprite.png",
+      "Audio": "sprite.mp3"
+    },
+    {
+      "Word": "flare-up",
+      "Hint": "A sudden burst of activity or anger.",
+      "Audio": "flareup.mp3"
+    },
+    {
+      "Word": "discovered",
+      "Hint": "Found or learned about something new.",
+      "Audio": "discovered.mp3"
+    },
+    {
+      "Word": "massive",
+      "Hint": "Very large, heavy, or significant.",
+      "Audio": "massive.mp3"
+    },
+    {
+      "Word": "byamagar",
+      "Hint": "A community center or a place for group gatherings.",
+      "Audio": "byamagar.mp3"
+    },
+    {
+      "Word": "challenge",
+      "Hint": "A difficult task or competition.",
+      "Audio": "challenge.mp3"
+    },
+    {
+      "Word": "chlorophyll",
+      "Hint": "The green pigment in plants that helps in photosynthesis.",
+      "Audio": "chlorophyll.mp3"
+    },
+    {
+      "Word": "solar energy",
+      "Hint": "Energy from the sun used for power.",
+      "Audio": "solar-energy.mp3"
+    },
+    {
+      "Word": "migratory",
+      "Hint": "Animals or people that move from one place to another seasonally.",
+      "Image": "migratory.jpg",
+      "Audio": "migratory.mp3"
+    },
+    {
+      "Word": "pesticides",
+      "Hint": "Chemicals used to kill pests that damage crops.",
+      "Image": "pesticides.jpg",
+      "Audio": "pesticides.mp3"
+    },
+    {
+      "Word": "filtration",
+      "Hint": "The process of removing impurities from liquids or gases.",
+      "Image": "filtration.png",
+      "Audio": "filtration.mp3"
+    },
+    {
+      "Word": "constellation",
+      "Hint": "A group of stars forming a pattern in the sky.",
+      "Image": "constellation.png",
+      "Audio": "constellation.mp3"
+    },
+    {
+      "Word": "satellite",
+      "Hint": "An object that orbits a planet, used for communication or research.",
+      "Image": "satellite.jpg",
+      "Audio": "satellite.mp3"
+    },
+    {
+      "Word": "galaxy",
+      "Hint": "A large system of stars, gas, and dust bound together by gravity.",
+      "Image": "galaxy.jpg",
+      "Audio": "galaxy.mp3"
+    },
+    {
+      "Word": "universe",
+      "Hint": "All of space and everything in it.",
+      "Image": "universe.jpg",
+      "Audio": "universe.mp3"
+    },
+    {
+      "Word": "rotation",
+      "Hint": "The spinning of an object, such as Earth, on its axis.",
+      "Image": "rotation.png",
+      "Audio": "rotation.mp3"
+    },
+    {
+      "Word": "forecasting",
+      "Hint": "Predicting future events, often related to weather.",
+      "Audio": "forecasting.mp3"
+    },
+    {
+      "Word": "quarter past",
+      "Hint": "Fifteen minutes after a given hour.",
+      "Image": "quarter past.png",
+      "Audio": "quarter past.mp3"
+    },
+    {
+      "Word": "fortnight",
+      "Hint": "A period of two weeks.",
+      "Audio": "fortnight.mp3"
+    },
+    {
+      "Word": "script",
+      "Hint": "A written text for plays, movies, or software programming.",
+      "Audio": "script.mp3"
+    },
+    {
+      "Word": "category",
+      "Hint": "A group or class of similar things.",
+      "Audio": "category.mp3"
+    },
+    {
+      "Word": "symbol",
+      "Hint": "A mark, sign, or character representing something.",
+      "Audio": "symbol.mp3"
+    },
+    {
+      "Word": "costume",
+      "Hint": "A set of clothes worn for a special occasion or performance.",
+      "Image": "costume.png",
+      "Audio": "costume.mp3"
+    }
   ]
 }
