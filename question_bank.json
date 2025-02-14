@@ -283,7 +283,7 @@
     },
     {
       "Word": "flapping",
-      "Hint": "Moving up and down or back and forth quickly.",
+      "Hint": "Bird uses flight muscles to move their wings.",
       "Image": "flapping.jpeg",
       "Audio": "flapping.mp3"
     },
@@ -486,7 +486,7 @@
     },
     {
       "Word": "upstroke",
-      "Hint": "The upward and backward movement of a bird's wings during flight",
+      "Hint": "The wings move upward and backward",
       "Image": "upstroke.jpg",
       "Audio": "upstroke.mp3",
       "Month": "June"
@@ -604,8 +604,7 @@
     {
       "Word": "water-babies",
       "Hint": "A reference from english chapter about a boy who becomes a water creature.",
-      "Audio": "water-babies.mp3",
-      "Month": "June"
+      "Audio": "water-babies.mp3"
     },
     {
       "Word": "chimney sweep",
@@ -626,6 +625,7 @@
     {
       "Word": "rock pools",
       "Hint": "Small water-filled depressions in coastal rocks, home to marine life.",
+      "Image": "rock pools.jpg",
       "Audio": "rock pools.mp3"
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "Word": "chitin",
-      "Hint": "A tough, protective substance found in the exoskeletons of insects and crustaceans.",
+      "Hint": "A hard outercovering found in the ebody of insects.",
       "Image": "image.png",
       "Audio": "chitin.mp3"
     },
@@ -673,7 +673,7 @@
     {
       "Word": "larva",
       "Hint": "An early stage of an insect's life cycle before it transforms into an adult, often worm-like in appearance.",
-      "Image": "larva.png",
+      "Image": "larva.jpeg",
       "Audio": "larva.mp3"
     },
     {
@@ -828,8 +828,7 @@
       "Word": "compartment",
       "Hint": "A separate section or space within a larger structure, such as a train or a container.",
       "Image": "compartment.png",
-      "Audio": "compartment.mp3",
-      "Month": "June"
+      "Audio": "compartment.mp3"
     },
     {
       "Word": "stationmaster",
@@ -1008,7 +1007,7 @@
     {
       "Word": "carnival",
       "Hint": "A festive event with parades, music, and entertainment.",
-      "Image": "carnival.jpeg",
+      "Image": "carnival.jpg",
       "Audio": "carnival.mp3"
     },
     {
@@ -1084,6 +1083,7 @@
     {
       "Word": "cereal",
       "Hint": "A grain used for food, such as wheat or corn, often eaten for breakfast.",
+      "Image": "cereal.jpeg",
       "Audio": "cereal.mp3"
     },
     {
@@ -1206,7 +1206,7 @@
     {
       "Word": "sphere",
       "Hint": "A perfectly round three-dimensional shape, like a ball.",
-      "Image": "sphere.jpg",
+      "Image": "sphere.jpeg",
       "Audio": "sphere.mp3"
     },
     {
@@ -1453,6 +1453,11 @@
       "Audio": "chlorination.mp3"
     },
     {
+      "Word": "Add extension",
+      "Hint": "suffix added to the end of a file name like .pdf, .doc",
+      "Audio": "add extension.mp3"
+    },
+    {
       "Word": "environment",
       "Hint": "The natural world or surroundings where people, animals, and plants live.",
       "Audio": "environment.mp3"
@@ -1580,6 +1585,7 @@
     {
       "Word": "solar energy",
       "Hint": "Energy from the sun used for power.",
+      "Image": "solar energy.jpeg",
       "Audio": "solar-energy.mp3"
     },
     {
@@ -1659,6 +1665,7 @@
     {
       "Word": "symbol",
       "Hint": "A mark, sign, or character representing something.",
+      "Image": "symbol.jpg",
       "Audio": "symbol.mp3"
     },
     {
@@ -1666,6 +1673,216 @@
       "Hint": "A set of clothes worn for a special occasion or performance.",
       "Image": "costume.png",
       "Audio": "costume.mp3"
+    },
+    {
+      "Word": "Mnemonics",
+      "Hint": "A technique to aid memory, often using patterns or associations.",
+      "Audio": "mnemonics.mp3"
+    },
+    {
+      "Word": "Water cycle",
+      "Hint": "The continuous movement of water between the earth and the atmosphere.",
+      "Image": "water cycle.jpeg",
+      "Audio": "water cycle.mp3"
+    },
+    {
+      "Word": "Bulging",
+      "Hint": "Swelling or sticking out in a rounded shape.",
+      "Audio": "bulging.mp3"
+    },
+    {
+      "Word": "Prodigy",
+      "Hint": "A young person with exceptional abilities or talents.",
+      "Audio": "prodigy.mp3"
+    },
+    {
+      "Word": "Enormously",
+      "Hint": "To a very great degree or extent.",
+      "Audio": "enormously.mp3"
+    },
+    {
+      "Word": "Spellbound",
+      "Hint": "Completely fascinated and captivated.",
+      "Audio": "spellbound.mp3"
+    },
+    {
+      "Word": "Recital",
+      "Hint": "A performance of music or poetry.",
+      "Audio": "recital.mp3"
+    },
+    {
+      "Word": "Curious",
+      "Hint": "Eager to know or learn something.",
+      "Audio": "curious.mp3"
+    },
+    {
+      "Word": "Absolute",
+      "Hint": "Complete, total, or without restriction.",
+      "Audio": "absolute.mp3"
+    },
+    {
+      "Word": "Amazement",
+      "Hint": "A feeling of great surprise or wonder.",
+      "Audio": "amazement.mp3"
+    },
+    {
+      "Word": "Splendid",
+      "Hint": "Very impressive or excellent.",
+      "Audio": "splendid.mp3"
+    },
+    {
+      "Word": "Flitting",
+      "Hint": "Moving quickly and lightly from one place to another.",
+      "Audio": "flitting.mp3"
+    },
+    {
+      "Word": "Instantly",
+      "Hint": "Immediately, without any delay.",
+      "Audio": "instantly.mp3"
+    },
+    {
+      "Word": "Celestial",
+      "Hint": "Related to the sky or outer space.",
+      "Audio": "celestial.mp3"
+    },
+    {
+      "Word": "Resource",
+      "Hint": "A supply of materials or assets that can be used to function effectively.",
+      "Audio": "resource.mp3"
+    },
+    {
+      "Word": "Interchangeable",
+      "Hint": "Able to be used in place of each other.",
+      "Audio": "interchangeable.mp3"
+    },
+    {
+      "Word": "Converted",
+      "Hint": "Changed from one form to another.",
+      "Audio": "converted.mp3"
+    },
+    {
+      "Word": "Constantly",
+      "Hint": "Continuously over a period of time.",
+      "Audio": "constantly.mp3"
+    },
+    {
+      "Word": "Humidity",
+      "Hint": "The amount of water vapor present in the air.",
+      "Audio": "humidity.mp3"
+    },
+    {
+      "Word": "Precipitation",
+      "Hint": "Any form of water, like rain or snow, that falls from the atmosphere.",
+      "Image": "precipitation.jpeg",
+      "Audio": "precipitation.mp3"
+    },
+    {
+      "Word": "Impurities",
+      "Hint": "Unwanted substances mixed with something else.",
+      "Audio": "impurities.mp3"
+    },
+    {
+      "Word": "Purification",
+      "Hint": "The process of making something clean or pure.",
+      "Audio": "purification.mp3"
+    },
+    {
+      "Word": "Revolution",
+      "Hint": "The movement of one object around another, such as Earth's orbit around the sun.",
+      "Image": "revolution.jpg",
+      "Audio": "revolution.mp3"
+    },
+    {
+      "Word": "Minutes",
+      "Hint": "A unit of time equal to sixty seconds.",
+      "Audio": "minutes.mp3"
+    },
+    {
+      "Word": "Ante meridiem",
+      "Hint": "The time before midday, abbreviated as A.M.",
+      "Image": "ante meridiem.png",
+      "Audio": "ante meridiem.mp3"
+    },
+    {
+      "Word": "Requirement",
+      "Hint": "Something that is needed or necessary.",
+      "Audio": "requirement.mp3"
+    },
+    {
+      "Word": "Motion block",
+      "Hint": "A command in coding used to control movement in programming.",
+      "Image": "motion block.jpg",
+      "Audio": "motion block.mp3"
+    },
+    {
+      "Word": "Matter",
+      "Hint": "Anything that has mass and occupies space.",
+      "Audio": "matter.mp3"
+    },
+    {
+      "Word": "Professional",
+      "Hint": "doing something in a way that shows skill, training or care.",
+      "Audio": "professional.mp3"
+    },
+    {
+      "Word": "direction",
+      "Hint": "A course along which someone or something moves.",
+      "Image": "direction.jpeg",
+      "Audio": "direction.mp3"
+    },
+    {
+      "Word": "stamp",
+      "Hint": "A small adhesive piece of paper for mailing letters, or an imprint made by pressing something.",
+      "Image": "stamp.jpeg",
+      "Audio": "stamp.mp3"
+    },
+    {
+      "Word": "recognitions",
+      "Hint": "The act of identifying or acknowledging something or someone.",
+    
+      "Audio": "recognitions.mp3"
+    },
+    {
+      "Word": "seasons",
+      "Hint": "The four divisions of the year: spring, summer, autumn, and winter.",
+      "Image": "seasons.png",
+      "Audio": "seasons.mp3"
+    },
+    {
+      "Word": "autumn",
+      "Hint": "The season between summer and winter when leaves fall from trees.",
+      "Image": "autumn.jpeg",
+      "Audio": "autumn.mp3"
+    },
+    {
+      "Word": "sea-creatures",
+      "Hint": "Animals that live in the ocean, such as fish, whales, and octopuses.",
+      "Image": "sea-creatures.jpg",
+      "Audio": "sea-creatures.mp3"
+    },
+    {
+      "Word": "seaweeds",
+      "Hint": "Various types of algae that grow in the sea or on rocks at the shore.",
+      "Image": "seaweeds.jpeg",
+      "Audio": "seaweeds.mp3"
+    },
+    {
+      "Word": "glanced",
+      "Hint": "To take a quick or brief look at something.",
+     
+      "Audio": "glanced.mp3"
+    },
+    {
+      "Word": "leaped",
+      "Hint": "Jumped or sprang a long way or with great force.",
+      "Image": "leaped.jpeg",
+      "Audio": "leaped.mp3"
+    },
+    {
+      "Word": "mulch",
+      "Hint": "A material spread over soil to enrich it and prevent weed growth.",
+      "Image": "mulch.jpeg",
+      "Audio": "mulch.mp3"
     }
   ]
 }
